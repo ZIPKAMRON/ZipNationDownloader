@@ -15,7 +15,7 @@
 <br>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/Rexinazor/Youtube_Downloader">
+  <a href="https://heroku.com/deploy?template=https://github.com/ZIPKAMRON/ZipNationDownloader">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -31,7 +31,7 @@
 
 Create a `config.py` with the above variables (Refer sample_config.py)
 ```
-git clone https://github.com/Rexinazor/Youtube_Downloader
+git clone https://github.com/ZIPKAMRON/ZipNationDownloader
 cd Youtube_Downloader
 virtualenv -p python3 venv
 . ./venv/bin/activate
